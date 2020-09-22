@@ -1,1 +1,1 @@
-django==1.11.2                                 # Web Framework
+django==1.11.29                                 # Web Framework
